@@ -1,4 +1,5 @@
-![Header](<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />)
+![Header](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 About me
 
