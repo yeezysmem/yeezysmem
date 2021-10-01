@@ -17,11 +17,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeezysmem&theme=dark)](https://github.com/yeezysmem/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=MedicLine.io&theme=dark)](https://github.com/yeezysmem/MedicLine.io)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=heine-front&theme=dark)](https://github.com/yeezysmem/heine-front)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=WebDEFI&theme=dark)](https://github.com/yeezysmem/WebDefi)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)
 )](https://github.com/yeezysmem/compx-gigabyte)
 
