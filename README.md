@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100%" height="200" />
 
 
-#About me
+
 ##I am a second-year student of Faculty of Informatics and Computer Science in Kyiv Polytechnic Institute.
 
 Languages and Tools
