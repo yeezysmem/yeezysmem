@@ -1,8 +1,8 @@
-[![Header](https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C)]
+![Header](https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif)
 
 About me
 
-Languages and Too;s
+Languages and Tools
 
 Follow me
 
