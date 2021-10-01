@@ -16,10 +16,23 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeezysmem&theme=dark)](https://github.com/yeezysmem/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=MedicLine.io&theme=dark)](https://github.com/yeezysmem/MedicLine.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=heine-front&theme=dark)](https://github.com/yeezysmem/heine-front)
+### UI/UX only
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=WebDEFI&theme=dark)](https://github.com/yeezysmem/WebDefi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)
-)](https://github.com/WebDefi/compx-gigabyte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=CompX-Design&theme=dark)](https://github.com/yeezysmem/CompX-Design)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=MedConsult&theme=dark)](https://github.com/yeezysmem/MedConsult)
+
+### UI/UX + React
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=heine-front&theme=dark)](https://github.com/yeezysmem/heine-front)
+[![Readme Card](https://.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)](https://github.com/WebDefi/compx-gigabyte)
+
+### UI/UX + Html&Css
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=crypto&theme=dark)](https://github.com/yeezysmem/crypto)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=topAnti&theme=dark)](https://github.com/yeezysmem/topAnti)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=MedicLine.io&theme=dark)](https://github.com/yeezysmem/MedicLine.io)
+
+
+
 
 
