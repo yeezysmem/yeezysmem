@@ -3,7 +3,7 @@
 
 
 ## About me
-### I am a second-year student of Faculty of Informatics and Computer Science in Kyiv Polytechnic Institute.
+#### I am a second-year student of Faculty of Informatics and Computer Science in Kyiv Polytechnic Institute.
 
 Languages and Tools
 
