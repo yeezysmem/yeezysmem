@@ -24,8 +24,8 @@
 
 ### UI/UX + React
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=heine-front&theme=dark)](https://github.com/yeezysmem/heine-front)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)](https://github.com/yeezysmem/compx-gigabyte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=heine-front&theme=dark)](https://github.com/WebDefi/heine-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebDefi&repo=compx-gigabyte&theme=dark)](https://github.com/WebDefi/compx-gigabyte)
 
 
 ### UI/UX + Html&Css
