@@ -20,6 +20,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=WebDEFI&theme=dark)](https://github.com/yeezysmem/WebDefi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=CompX-Design&theme=dark)](https://github.com/yeezysmem/CompX-Design)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=MedConsult&theme=dark)](https://github.com/yeezysmem/MedConsult)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeezysmem&repo=KateInWebDevLand&theme=dark)](https://github.com/yeezysmem/KateInWebDevLand)
 
 ### UI/UX + React
 
