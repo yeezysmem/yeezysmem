@@ -2,9 +2,6 @@
 <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="100%" height="200" />
 
 
-### About me
-#### I am a second-year student of Faculty of Informatics and Computer Science in Kyiv Polytechnic Institute.
-
 ### Languages and Tools
 ![Html5](https://img.shields.io/badge/-Html5-41AB58?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-41AB58?style=for-the-badge&logo=css3&logoColor=ffffff)
