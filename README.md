@@ -1,5 +1,5 @@
 
-<iframe src="https://giphy.com/embed/hVUK7LtvxX6KNYydAb" width="480" height="412" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/hVUK7LtvxX6KNYydAb" width="480" height="412" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
 ### Languages and Tools
