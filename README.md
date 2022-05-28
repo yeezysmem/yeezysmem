@@ -1,5 +1,5 @@
 
-![image]([https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif](https://giphy.com/embed/hVUK7LtvxX6KNYydAb))
+![giphy](https://user-images.githubusercontent.com/43522455/170831991-5008e9ca-9c7a-4a4d-af46-4ca5c30924be.gif)
 
 
 ### Languages and Tools
